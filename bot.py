@@ -4,7 +4,7 @@ import subprocess
 import os
 import signal
 
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "7946520115:AAEA_Zq0XI1lyZqWhxTLxjmpryDyKokp4sU"
 SCRIPT = "cpfree.py"
 LOG_FILE = "log.txt"
 
